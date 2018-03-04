@@ -26,7 +26,7 @@
 //#define VECTOR_DYNAMIC	// descomentar para que los vectores sean variables ...
 						                   // dinámicas (memoria reutilizable durante la ejecución)
 #ifdef VECTOR_GLOBAL
-#define MAX 4294967295	  //=2^32-1
+#define MAX 33554432	  //=2^25
 double v1[MAX], v2[MAX], v3[MAX]; 
 #endif
  
