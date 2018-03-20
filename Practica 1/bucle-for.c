@@ -18,9 +18,9 @@ int main(int argc, char **argv) {
     #pragma omp parallel
     {
 
-    #pragma omp for
-        for (i=0; i<n; i++)
-            printf("thread %d ejecuta la iteración %d del bucle\n", omp_get_thread_num(),i);
+        #pragma omp for
+            for (i=0; i<n; i++)
+                printf("thread %d ejecuta la iteración %d del bucle\n", omp_get_thread_num(),i);
             
     }
 
