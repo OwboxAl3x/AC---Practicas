@@ -1,0 +1,66 @@
+Id. usuario del trabajo: D1estudiante8
+Id. del trabajo: 74301.atcgrid
+Nombre del trabajo especificado por usuario: pmv-OpenMP-a
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/D1estudiante8/P2
+Cola: ac
+
+Para 1 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 19999 del vector resultante es: 53326666933336912.000000 
+Tiempo(seg.):0.554365863 
+
+Para 2 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 19999 del vector resultante es: 53326666933336912.000000 
+Tiempo(seg.):0.492307264 
+
+Para 3 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 19999 del vector resultante es: 53326666933336912.000000 
+Tiempo(seg.):0.267103055 
+
+Para 4 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 19999 del vector resultante es: 53326666933336912.000000 
+Tiempo(seg.):0.244960045 
+
+Para 5 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 19999 del vector resultante es: 53326666933336912.000000 
+Tiempo(seg.):0.186574972 
+
+Para 6 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 19999 del vector resultante es: 53326666933336912.000000 
+Tiempo(seg.):0.181699349 
+
+Para 7 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 19999 del vector resultante es: 53326666933336912.000000 
+Tiempo(seg.):0.147462713 
+
+Para 8 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 19999 del vector resultante es: 53326666933336912.000000 
+Tiempo(seg.):0.223293973 
+
+Para 9 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 19999 del vector resultante es: 53326666933336912.000000 
+Tiempo(seg.):0.139494610 
+
+Para 10 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 19999 del vector resultante es: 53326666933336912.000000 
+Tiempo(seg.):0.145303163 
+
+Para 11 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 19999 del vector resultante es: 53326666933336912.000000 
+Tiempo(seg.):0.134352415 
+
+Para 12 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 19999 del vector resultante es: 53326666933336912.000000 
+Tiempo(seg.):0.162479058 

@@ -1,0 +1,36 @@
+Id. usuario del trabajo: D1estudiante8
+Id. del trabajo: 74309.atcgrid
+Nombre del trabajo especificado por usuario: pmv-OpenMP-a
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/D1estudiante8/P2
+Cola: ac
+
+Para 7 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 39999 del vector resultante es: 853280001066643968.000000 
+Tiempo(seg.):0.833865422 
+
+Para 8 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 39999 del vector resultante es: 853280001066643968.000000 
+Tiempo(seg.):0.736242577 
+
+Para 9 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 39999 del vector resultante es: 853280001066643968.000000 
+Tiempo(seg.):0.960819582 
+
+Para 10 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 39999 del vector resultante es: 853280001066643968.000000 
+Tiempo(seg.):0.662622147 
+
+Para 11 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 39999 del vector resultante es: 853280001066643968.000000 
+Tiempo(seg.):0.779319681 
+
+Para 12 threads:
+El componente 0 del vector resultante es: 0.000000 
+El componente 39999 del vector resultante es: 853280001066643968.000000 
+Tiempo(seg.):0.626610882 
