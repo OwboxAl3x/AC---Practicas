@@ -1,0 +1,78 @@
+Id. usuario del trabajo: D1estudiante8
+Id. del trabajo: 76607.atcgrid
+Nombre del trabajo especificado por usuario: pmtv-OpenMP
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/D1estudiante8/P3
+Cola: ac
+\nPara static y chunk por defecto
+El componente 0 del vector resultante es: 153600.000000 
+El componente 15359 del vector resultante es: 10.000000 
+Tiempo(seg.):0.085445064 
+\nPara static y chunk 1
+El componente 0 del vector resultante es: 153600.000000 
+El componente 15359 del vector resultante es: 10.000000 
+Tiempo(seg.):0.086396283 
+\nPara static y chunk 64
+El componente 0 del vector resultante es: 153600.000000 
+El componente 15359 del vector resultante es: 10.000000 
+Tiempo(seg.):0.081726494 
+\nPara dynamic y chunk por defecto
+El componente 0 del vector resultante es: 153600.000000 
+El componente 15359 del vector resultante es: 10.000000 
+Tiempo(seg.):0.099823410 
+\nPara dynamic y chunk 1
+El componente 0 del vector resultante es: 153600.000000 
+El componente 15359 del vector resultante es: 10.000000 
+Tiempo(seg.):0.103429452 
+\nPara dynamic y chunk 64
+El componente 0 del vector resultante es: 153600.000000 
+El componente 15359 del vector resultante es: 10.000000 
+Tiempo(seg.):0.084068512 
+\nPara guided y chunk por defecto
+El componente 0 del vector resultante es: 153600.000000 
+El componente 15359 del vector resultante es: 10.000000 
+Tiempo(seg.):0.068316935 
+\nPara guided y chunk 1
+El componente 0 del vector resultante es: 153600.000000 
+El componente 15359 del vector resultante es: 10.000000 
+Tiempo(seg.):0.069062391 
+\nPara guided y chunk 64
+El componente 0 del vector resultante es: 153600.000000 
+El componente 15359 del vector resultante es: 10.000000 
+Tiempo(seg.):0.070279669 
+\nPara static y chunk por defecto
+El componente 0 del vector resultante es: 230400.000000 
+El componente 23039 del vector resultante es: 10.000000 
+Tiempo(seg.):0.149827141 
+\nPara static y chunk 1
+El componente 0 del vector resultante es: 230400.000000 
+El componente 23039 del vector resultante es: 10.000000 
+Tiempo(seg.):0.194593088 
+\nPara static y chunk 64
+El componente 0 del vector resultante es: 230400.000000 
+El componente 23039 del vector resultante es: 10.000000 
+Tiempo(seg.):0.187994885 
+\nPara dynamic y chunk por defecto
+El componente 0 del vector resultante es: 230400.000000 
+El componente 23039 del vector resultante es: 10.000000 
+Tiempo(seg.):0.213189094 
+\nPara dynamic y chunk 1
+El componente 0 del vector resultante es: 230400.000000 
+El componente 23039 del vector resultante es: 10.000000 
+Tiempo(seg.):0.212454278 
+\nPara dynamic y chunk 64
+El componente 0 del vector resultante es: 230400.000000 
+El componente 23039 del vector resultante es: 10.000000 
+Tiempo(seg.):0.191278824 
+\nPara guided y chunk por defecto
+El componente 0 del vector resultante es: 230400.000000 
+El componente 23039 del vector resultante es: 10.000000 
+Tiempo(seg.):0.164282522 
+\nPara guided y chunk 1
+El componente 0 del vector resultante es: 230400.000000 
+El componente 23039 del vector resultante es: 10.000000 
+Tiempo(seg.):0.160569420 
+\nPara guided y chunk 64
+El componente 0 del vector resultante es: 230400.000000 
+El componente 23039 del vector resultante es: 10.000000 
+Tiempo(seg.):0.159594442 

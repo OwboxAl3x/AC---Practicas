@@ -1,0 +1,90 @@
+Id. usuario del trabajo: D1estudiante8
+Id. del trabajo: 76620.atcgrid
+Nombre del trabajo especificado por usuario: pmm-OpenMP
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/D1estudiante8/P3
+Cola: ac
+
+Para 1 threads:
+
+Para 500 de tamanio:
+El componente 0 del vector resultante es: 5000 
+El componente 499 del vector resultante es: 5000 
+Tiempo(seg.):0.891406238 
+
+Para 2 threads:
+
+Para 500 de tamanio:
+El componente 0 del vector resultante es: 5000 
+El componente 499 del vector resultante es: 5000 
+Tiempo(seg.):0.449648208 
+
+Para 3 threads:
+
+Para 500 de tamanio:
+El componente 0 del vector resultante es: 5000 
+El componente 499 del vector resultante es: 5000 
+Tiempo(seg.):0.309073986 
+
+Para 4 threads:
+
+Para 500 de tamanio:
+El componente 0 del vector resultante es: 5000 
+El componente 499 del vector resultante es: 5000 
+Tiempo(seg.):0.229289101 
+
+Para 5 threads:
+
+Para 500 de tamanio:
+El componente 0 del vector resultante es: 5000 
+El componente 499 del vector resultante es: 5000 
+Tiempo(seg.):0.182331173 
+
+Para 6 threads:
+
+Para 500 de tamanio:
+El componente 0 del vector resultante es: 5000 
+El componente 499 del vector resultante es: 5000 
+Tiempo(seg.):0.153968553 
+
+Para 7 threads:
+
+Para 500 de tamanio:
+El componente 0 del vector resultante es: 5000 
+El componente 499 del vector resultante es: 5000 
+Tiempo(seg.):0.130954801 
+
+Para 8 threads:
+
+Para 500 de tamanio:
+El componente 0 del vector resultante es: 5000 
+El componente 499 del vector resultante es: 5000 
+Tiempo(seg.):0.114258808 
+
+Para 9 threads:
+
+Para 500 de tamanio:
+El componente 0 del vector resultante es: 5000 
+El componente 499 del vector resultante es: 5000 
+Tiempo(seg.):0.101529231 
+
+Para 10 threads:
+
+Para 500 de tamanio:
+El componente 0 del vector resultante es: 5000 
+El componente 499 del vector resultante es: 5000 
+Tiempo(seg.):0.091518386 
+
+Para 11 threads:
+
+Para 500 de tamanio:
+El componente 0 del vector resultante es: 5000 
+El componente 499 del vector resultante es: 5000 
+Tiempo(seg.):0.082932178 
+
+Para 12 threads:
+
+Para 500 de tamanio:
+El componente 0 del vector resultante es: 5000 
+El componente 499 del vector resultante es: 5000 
+Tiempo(seg.):0.076460193 

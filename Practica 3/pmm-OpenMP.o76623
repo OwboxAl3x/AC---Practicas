@@ -1,0 +1,48 @@
+Id. usuario del trabajo: D1estudiante8
+Id. del trabajo: 76623.atcgrid
+Nombre del trabajo especificado por usuario: pmm-OpenMP
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/D1estudiante8/P3
+Cola: ac
+
+Para 7 threads:
+
+Para 1500 de tamanio:
+El componente 0 del vector resultante es: 15000 
+El componente 1499 del vector resultante es: 15000 
+Tiempo(seg.):6.003128156 
+
+Para 8 threads:
+
+Para 1500 de tamanio:
+El componente 0 del vector resultante es: 15000 
+El componente 1499 del vector resultante es: 15000 
+Tiempo(seg.):5.521066417 
+
+Para 9 threads:
+
+Para 1500 de tamanio:
+El componente 0 del vector resultante es: 15000 
+El componente 1499 del vector resultante es: 15000 
+Tiempo(seg.):4.904067615 
+
+Para 10 threads:
+
+Para 1500 de tamanio:
+El componente 0 del vector resultante es: 15000 
+El componente 1499 del vector resultante es: 15000 
+Tiempo(seg.):4.477451295 
+
+Para 11 threads:
+
+Para 1500 de tamanio:
+El componente 0 del vector resultante es: 15000 
+El componente 1499 del vector resultante es: 15000 
+Tiempo(seg.):4.190609666 
+
+Para 12 threads:
+
+Para 1500 de tamanio:
+El componente 0 del vector resultante es: 15000 
+El componente 1499 del vector resultante es: 15000 
+Tiempo(seg.):3.829173867 
